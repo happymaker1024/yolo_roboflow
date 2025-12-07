@@ -1,3 +1,14 @@
+.vscode/
+datasets/
+models/
+numbers_no-annot/
+outputs/
+runs/
+images.zip
+numbers_no-annot.zip
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
